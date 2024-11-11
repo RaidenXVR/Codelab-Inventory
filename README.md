@@ -5,6 +5,6 @@
 - Kelas Praktikum: A
 
 ### Screenshot Hasil
-- ![screenshot1](ss1.png)
+- ![screenshot1](ss3.png)
 - ![screenshot2](ss2.png)
-- ![screenshot3](ss3.png)
+- ![screenshot3](ss1.png)
